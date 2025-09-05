@@ -56,7 +56,7 @@ Canlı görünüm içiin: [bingly.lol](https://bingly.lol)
 
 Bu projeyi beğendiyseniz ve geliştirilmesine destek olmak istiyorsanız:
 
-- 💞 Web sitemize sponor olun! [İletişime Geç](https://bingly.lol/contact)
+- 💞 Web sitemize sponsor olun! [İletişime Geç](https://bingly.lol/contact)
 - ⭐ GitHub'da yıldız verin
 - 🐛 Bug report'ları gönderin
 - 💡 Yeni özellik önerileri paylaşın
