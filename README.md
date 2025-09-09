@@ -4,6 +4,8 @@
 
 Bingly, kullanıcıların tüm sosyal medya hesaplarını, web sitelerini ve diğer önemli linklerini tek bir sayfada toplayabildiği modern bir "link in bio" servisidir.
 
+![Bingly](https://efwlxc.babyworldnatural.com/uploads/bingly/2.jpg)
+
 ## 🚀 Özellikler
 
 - **Tek Sayfa Bio**: Instagram, Twitter, TikTok gibi platformlarda bio'ya sadece bir link koymanın sınırını aşın
@@ -31,6 +33,8 @@ Bingly, kullanıcıların tüm sosyal medya hesaplarını, web sitelerini ve di�
 - **İşletmeler**: Küçük ve büyük işletmeler
 - **Sanatçılar ve Müzisyenler**: Portfolyo ve müzik paylaşımı için
 - **Freelancer'lar**: Hizmetlerini tanıtmak isteyenler
+
+![Bingly](https://efwlxc.babyworldnatural.com/uploads/bingly/3.jpg)
 
 ## 🛠️ Teknoloji Stack'i
 
